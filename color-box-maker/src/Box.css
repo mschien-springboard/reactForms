@@ -1,0 +1,12 @@
+.Box {
+  width: 50%;
+  margin: auto;
+  padding: auto;
+  align-content: center;
+  justify-content: center;
+
+}
+
+.Box > button {
+  margin-top: 5px;
+}
